@@ -14,7 +14,7 @@ env:
   #################################################
   #################################################
   ### REPLACE USERNAME WITH GH USERNAME         ###
-  AZURE_WEBAPP_NAME: AZURE_CREDENTIALS
+  AZURE_WEBAPP_NAME: SandyaBhat-ttt-app
   #################################################
 
 jobs:
